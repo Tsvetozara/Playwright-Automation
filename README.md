@@ -10,4 +10,6 @@
 > 
 > To run test only on Chromium but on headed mode use command **"npx playwright test TestName.spec.js --project=chromium --headed"**
 >
-> To see report use command **"npx playwright show-report"**
+> To run a test in a debug mode use command **"npx playwright test TestName.spec.js --project=chromium --headed --debug"**
+>
+>  To see report use command **"npx playwright show-report"**
