@@ -1,4 +1,5 @@
-Install Node.js, VS Code and Playwright
+> [!NOTE]
+> Install Node.js, VS Code and Playwright
 
 To run all tests use command "npx playwright test" (runs all tests on all browsers in headless mode)
 
